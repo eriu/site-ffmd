@@ -23,9 +23,10 @@ msgstr ""
 "kann sich dein Knoten mit dem Magdeburger Mesh-VPN zu verbinden. Bitte "
 "schicke dazu diesen Schlüssel und den Namen deines Knotens "
 "(<em><%=hostname%></em>) an "
-"<a href=\"mailto:keys@md.freifunk.net\">keys@md.freifunk.net</a> oder"
-"klicke einfach auf folgenden <a href="http://register.md.freifunk.net/#new?hostname=<%=hostname%>&key=<%=pubkey%>&mac=<%= sysconfig.primary_mac %>"
-   alt="FreifunkMD Registrierung von <%=hostname%>">Link <em><%=hostname%></em></a>."
+"<a href=\"mailto:keys@md.freifunk.net\">keys@md.freifunk.net</a> oder "
+"klicke einfach auf folgenden <a href=\"http://register.md.freifunk.net/#new?hostname=<%=hostname%>&key=<%=pubkey%>&mac=<%= sysconfig.primary_mac %>\" " 
+" alt=\"FreifunkMD Registrierung von <%=hostname%>\">Link</a>. "
+
 
 msgid "gluon-config-mode:reboot"
 msgstr ""
